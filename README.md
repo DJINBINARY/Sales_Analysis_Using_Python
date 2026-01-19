@@ -90,55 +90,6 @@ This makes analysis **clear, compact, and presentation-ready**.
 
 ---
 
-## ▶️ How to Run This Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/sf-salaries-dashboard.git
-   ```
-2. Install required libraries:
-
-   ```bash
-   pip install pandas numpy matplotlib seaborn
-   ```
-3. Run the Jupyter Notebook or Python script:
-
-   ```bash
-   python analysis.py
-   ```
-
-   or open the `.ipynb` file in Jupyter Notebook.
-
----
-
-## 📸 Output
-
-* A **single combined dashboard image**
-* Cleaned dataset ready for analysis
-* Interview-ready insights and visualizations
-
----
-
-## 🎯 Key Learnings
-
-* Handling messy real-world datasets
-* Importance of correct data types
-* Effective use of `groupby()` and aggregation
-* Creating professional dashboards using subplots
-* Writing clean, readable, and reusable Python code
-
----
-
-## 🚀 Future Improvements
-
-* Add interactive dashboard using **Plotly / Streamlit**
-* Deploy dashboard as a web app
-* Convert analysis into **Power BI / Tableau**
-* Add automated data validation
-
----
-
 ## 👨‍💻 Author
 
 **Divyanshu Joshi (DJ)**
